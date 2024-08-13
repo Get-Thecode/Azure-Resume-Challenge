@@ -16,6 +16,7 @@ using System.Text;
 
 namespace Company.Function
 {
+    //Entry Point
     public static class GetResumeCounter
     {
         [FunctionName("GetResumeCounter")]
