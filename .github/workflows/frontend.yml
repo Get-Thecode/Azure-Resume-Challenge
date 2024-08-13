@@ -1,4 +1,4 @@
-name: DEPLOY_FRONTEND
+name: deploy_frontend
 
 on:
     push:
